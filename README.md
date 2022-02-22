@@ -2,15 +2,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-## You need to install:
-```bash
-npm install @heroicons/react
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-npm install tailwind-scrollbar-hide
-npm add react-flip-move
-```
-
 First, run the development server:
 
 ```bash
